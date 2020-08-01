@@ -1,14 +1,16 @@
-## Hi Welccome My Home Page
+# Hi Welcome to My Home Page
 I am Shivansh Gupta, and this my HTML5/CSS3 Repository Home Page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can all My work in HTML and CSS posted down here.
 
-### Markdown
+The link to my repository is [here](https://github.com/shivansh052k/HTML5-CSS3), check it out.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My Projects
+### Project-1
 
-```markdown
-Syntax highlighted code block
+Description - Simple HTML web page with basic HTML5 tags.
+Link to my work - https://github.com/shivansh052k/HTML5-CSS3/blob/master/Project1_2.html
+Web page formed - https://shivansh052k.github.io/HTML5-CSS3/Project1_2.html
 
 # Header 1
 ## Header 2
