@@ -8,9 +8,9 @@ The link to my repository is [here](https://github.com/shivansh052k/HTML5-CSS3),
 ## My Projects
 ### Project-1
 
-Description - Simple HTML web page with basic HTML5 tags.
-Link to my work - [Click Here](https://github.com/shivansh052k/HTML5-CSS3/blob/master/Project1_2.html)
-Web page formed - [Click Here](https://shivansh052k.github.io/HTML5-CSS3/Project1_2.html)
+Description - Simple HTML web page with basic HTML5 tags.<br />
+Link to my work - [Click Here](https://github.com/shivansh052k/HTML5-CSS3/blob/master/Project1_2.html) <br />
+Web page formed - [Click Here](https://shivansh052k.github.io/HTML5-CSS3/Project1_2.html) <br />
 
 #
 ```
