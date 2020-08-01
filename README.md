@@ -1,9 +1,8 @@
 # Hi Welcome to My Home Page
-I am Shivansh Gupta, and this my HTML5/CSS3 Repository Home Page.
+I am Shivansh Gupta, and this my HTML5/CSS3 Repository Home Page.<br />
+You can all My work in HTML and CSS posted down here.<br />
 
-You can all My work in HTML and CSS posted down here.
-
-The link to my repository is [here](https://github.com/shivansh052k/HTML5-CSS3), check it out.
+The link to my repository is [here](https://github.com/shivansh052k/HTML5-CSS3), check it out.<br />
 
 ## My Projects
 ### Project-1
@@ -11,11 +10,6 @@ The link to my repository is [here](https://github.com/shivansh052k/HTML5-CSS3),
 Description - Simple HTML web page with basic HTML5 tags.<br />
 Link to my work - [Click Here](https://github.com/shivansh052k/HTML5-CSS3/blob/master/Project1_2.html) <br />
 Web page formed - [Click Here](https://shivansh052k.github.io/HTML5-CSS3/Project1_2.html) <br />
-
-#
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
