@@ -11,10 +11,13 @@ Description - Simple HTML web page with basic HTML5 tags.<br />
 Link to my work - [Click Here](https://github.com/shivansh052k/HTML5-CSS3/blob/master/Project1_2.html) <br />
 Web page formed - [Click Here](https://shivansh052k.github.io/HTML5-CSS3/Project1_2.html) <br />
 
-### Jekyll Themes
+### Project-2
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivansh052k/shivansh052k.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Description - Added a CSS file basic syntaxes to the above HTML5 file in order to make it look good.<br />
+Link to my work - [Click Here](https://github.com/shivansh052k/HTML5-CSS3/tree/master/Project2) <br />
+Web page formed - [Click Here](https://shivansh052k.github.io/HTML5-CSS3/Project2/Project1_2.html) <br />
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can support me by following me on [Github](https://github.com/shivansh052k), [Twitter](https://twitter.com/shivansh_052k), and [Linkdin](https://www.linkedin.com/in/shivansh-gupta-96a68a170/)<br />
+In case, if you want to contact me, just drop down a mail on [shivanshgupta323@gmail.com](shivanshgupta323@gmail.com)
