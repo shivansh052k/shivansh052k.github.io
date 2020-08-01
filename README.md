@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/shivansh052k/shivansh052k.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Hi Welccome My Home Page
+I am Shivansh Gupta, and this my HTML5/CSS3 Repository Home Page.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
