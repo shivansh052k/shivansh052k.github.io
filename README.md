@@ -17,6 +17,12 @@ Description - Added a CSS file basic syntaxes to the above HTML5 file in order t
 Link to my work - [Click Here](https://github.com/shivansh052k/HTML5-CSS3/tree/master/Project2) <br />
 Web page formed - [Click Here](https://shivansh052k.github.io/HTML5-CSS3/Project2/Project1_2.html) <br />
 
+### Project-2
+
+Description - Added some button styling and diplay option to the content in the above web page's CSS file.<br />
+Link to my work - [Click Here](https://github.com/shivansh052k/HTML5-CSS3/tree/master/Project2) <br />
+Web page formed - [Click Here](https://shivansh052k.github.io/HTML5-CSS3/Project2/Project1_2.html) <br />
+
 ### Support or Contact
 
 You can support me by following me on [Github](https://github.com/shivansh052k), [Twitter](https://twitter.com/shivansh_052k), and [Linkdin](https://www.linkedin.com/in/shivansh-gupta-96a68a170/)<br />
